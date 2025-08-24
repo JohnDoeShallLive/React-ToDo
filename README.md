@@ -65,12 +65,6 @@ Select your repo and deploy.
 
 You’ll get a live link like 👉 https://your-app.vercel.app
 
-📸 Screenshots
-Add screenshots of your app here for better presentation.
-
-Example:
-
-
 📖 Learn More
 React Documentation
 
