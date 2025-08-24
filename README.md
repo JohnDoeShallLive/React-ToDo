@@ -2,7 +2,7 @@
 
 A simple and responsive **To-Do List Application** built with **React.js** to help users manage daily tasks effectively.  
 
-🌐 **Live Demo:** [Click Here]([https://your-vercel-project.vercel.app](https://react-to-do-lime-omega.vercel.app/))
+🌐 **Live Demo:** https://your-vercel-project.vercel.app](https://react-to-do-lime-omega.vercel.app/
 
 ---
 
