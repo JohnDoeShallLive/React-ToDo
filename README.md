@@ -71,5 +71,5 @@ React Documentation
 Create React App Docs
 
 👨‍💻 Author
-John Doe Shall Live
+Shreyash Sule
 🔗 GitHub Profile
